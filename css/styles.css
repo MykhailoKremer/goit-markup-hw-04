@@ -146,6 +146,7 @@ body {
     url(../images/hero_bgnd.jpg);
   background-size: 1600px auto;
   background-repeat: no-repeat;
+  background-position: 50% 50%;
 }
 
 .hero-title {
