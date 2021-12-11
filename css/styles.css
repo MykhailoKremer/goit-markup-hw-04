@@ -143,7 +143,7 @@ body {
   display: flex;
   align-items: center;
   background-image: linear-gradient(to right, rgba(47, 48, 58, 0.5), rgba(47, 48, 58, 0.3)),
-    url(./images/hero_bgnd.jpg);
+    url(../images/hero_bgnd.jpg);
   background-size: 1600px auto;
   background-repeat: no-repeat;
 }
